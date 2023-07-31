@@ -1,5 +1,5 @@
 import unittest
-from booklover import BookLover
+from m09_homework.booklover import BookLover
 
 class BookLoverTestSuite(unittest.TestCase):
 
